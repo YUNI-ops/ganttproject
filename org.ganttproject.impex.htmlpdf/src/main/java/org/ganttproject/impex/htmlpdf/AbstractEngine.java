@@ -29,6 +29,7 @@ import org.osgi.service.prefs.Preferences;
  * 
  * @author dbarashev (Dmitry Barashev)
  */
+
 public class AbstractEngine {
   private IGanttProject myProject;
   private UIFacade myUiFacade;
